@@ -1,2 +1,0 @@
-# MessengerApp
-Created with CodeSandbox
